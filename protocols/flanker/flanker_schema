@@ -1,0 +1,20 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/mtg137/Flanker_applet/master/protocols/flanker/flanker_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "flanker_schema",
+    "skos:prefLabel": "Flanker Applet",
+    "schema:description": "Participate in a selection of demo activities to showcase the features of MindLogger.",
+    "landingPage": "",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "schema:image": "https://raw.githubusercontent.com/mtg137/Flanker_applet/master/protocols/flanker/mindlogger-logo.png",
+    "ui": {
+        "order": [
+            "flanker_schema"
+        ],
+        "shuffle": false
+    }
+}

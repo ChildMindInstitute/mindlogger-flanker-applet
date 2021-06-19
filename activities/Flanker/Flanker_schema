@@ -1,0 +1,29 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+    "https://raw.githubusercontent.com/mtg137/Flanker_applet/master/activities/Flanker/Flanker_context"
+  ],
+  "@type": "reproschema:Activity",
+  "@id": "flanker_schema",
+  "skos:prefLabel": "Flanker",
+  "schema:description": "This activity contains Flanker item.",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "preamble": "Please follow the instructions for the task.",
+  "ui": {
+    "addProperties": [
+      {
+        "variableName": "visual-stimulus-response",
+        "isAbout": "visual-stimulus-response",
+        "isVis": true
+      }
+    ],
+    "order": [
+      "visual-stimulus-response"
+    ],
+    "allow": [
+      "skipped",
+      "dontKnow"
+    ]
+  }
+}
