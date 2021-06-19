@@ -9,12 +9,12 @@
   "schema:description": "This activity contains Flanker item.",
   "schema:schemaVersion": "0.0.1",
   "schema:version": "0.0.1",
-  "preamble": "Please follow the instructions for the task.",
+  "preamble": "",
   "ui": {
     "addProperties": [
-      "vsr-instructions": {
-        "@id": "MindLoggerDemo:items/vsr-instructions",
-        "@type": "@id",
+      {
+        "variableName": "vsr-instructions",
+        "isAbout": "vsr-instructions",
         "isVis": true
       },
       {
@@ -24,6 +24,7 @@
       }
     ],
     "order": [
+      "vsr-instructions",
       "visual-stimulus-response"
     ],
     "allow": [
