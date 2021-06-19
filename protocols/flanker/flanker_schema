@@ -4,7 +4,7 @@
         "https://raw.githubusercontent.com/mtg137/Flanker_applet/master/protocols/flanker/flanker_context"
     ],
     "@type": "reproschema:Protocol",
-    "@id": "flanker_schema",
+    "@id": "Flanker_schema",
     "skos:prefLabel": "Flanker Applet",
     "schema:description": "Participate in a selection of demo activities to showcase the features of MindLogger.",
     "landingPage": "",
@@ -13,7 +13,7 @@
     "schema:image": "https://raw.githubusercontent.com/mtg137/Flanker_applet/master/protocols/flanker/mindlogger-logo.png",
     "ui": {
         "order": [
-            "flanker_schema"
+            "Flanker_schema"
         ],
         "shuffle": false
     }
