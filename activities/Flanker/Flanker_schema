@@ -12,6 +12,11 @@
   "preamble": "Please follow the instructions for the task.",
   "ui": {
     "addProperties": [
+      "vsr-instructions": {
+        "@id": "MindLoggerDemo:items/vsr-instructions",
+        "@type": "@id",
+        "isVis": true
+      },
       {
         "variableName": "visual-stimulus-response",
         "isAbout": "visual-stimulus-response",

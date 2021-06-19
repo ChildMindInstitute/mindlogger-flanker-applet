@@ -1,0 +1,18 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "vsr-instructions",
+  "skos:altLabel": "vsr-insructions",
+  "skos:prefLabel": "Visual Stimulus Response instructions",
+  "schema:description": "Instructions for the Visual Stimulus Response widget",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "question": {
+    "en": "## Visual Stimulus Response\r\n\r\nThe following page is Visual Stimulus item."
+  },
+  "ui": {
+    "inputType": "markdown-message"
+  }
+}
