@@ -22,7 +22,7 @@
         {
           "@type": "schema:Property",
           "schema:name": "q1",
-          "schema:image": "https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
           "responseOptions": {
             "@type": "xsd:anyURI",
             "choices": [
