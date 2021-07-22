@@ -94,6 +94,1854 @@
             ]
           },
           "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q2",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-left.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/congruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q3",
+          "schema:image": "<img src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/incongruent-right.png' />",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<img alt='left' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-left-white.png' />",
+                "schema:value": 0
+              },
+              {
+                "schema:name": "<img alt='right' src='https://raw.githubusercontent.com/stufreen/schema-standardization/master/activities/FlankerExample/items/arrow-right-white.png' />",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
         }
       ]
     },
