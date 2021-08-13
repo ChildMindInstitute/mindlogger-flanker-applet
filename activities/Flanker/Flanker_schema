@@ -45,6 +45,10 @@
     ],
     "order": [
       "vsr-instructions",
+      "practice-instructions",
+      "test-instructions",
+      "next-instructions",
+      "next-instructions",
       "visual-stimulus-response"
     ],
     "allow": [
