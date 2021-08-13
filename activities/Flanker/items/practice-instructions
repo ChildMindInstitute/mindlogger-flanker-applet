@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "practice-instructions",
+  "skos:altLabel": "practice-instructions",
+  "skos:prefLabel": "Visual Stimulus Response instructions",
+  "schema:description": "Instructions for the Practice Phase",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "question": {
+    "en": "
+      ## Practice Instructions
+      Now you will have a chance to practice the task before moving on to the test phase.
+      Remember to respond only to the central arrow
+    "
+  },
+  "ui": {
+    "inputType": "markdown-message"
+  }
+}

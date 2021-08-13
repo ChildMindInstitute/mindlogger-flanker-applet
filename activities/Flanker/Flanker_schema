@@ -18,6 +18,26 @@
         "isVis": true
       },
       {
+        "variableName": "practice-instructions",
+        "isAbout": "practice-instructions",
+        "isVis": true
+      },
+      {
+        "variableName": "test-instructions",
+        "isAbout": "test-instructions",
+        "isVis": true
+      },
+      {
+        "variableName": "next-instructions",
+        "isAbout": "next-instructions",
+        "isVis": true
+      },
+      {
+        "variableName": "next-instructions",
+        "isAbout": "next-instructions",
+        "isVis": true
+      },
+      {
         "variableName": "visual-stimulus-response",
         "isAbout": "visual-stimulus-response",
         "isVis": true

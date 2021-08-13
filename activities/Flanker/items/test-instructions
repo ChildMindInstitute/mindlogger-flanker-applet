@@ -1,0 +1,25 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "test-instructions",
+  "skos:altLabel": "test-instructions",
+  "skos:prefLabel": "Visual Stimulus Response instructions",
+  "schema:description": "Instructions for the Practice Phase",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "question": {
+    "en": "
+      ## Test Instructions
+      Good job on the practice trials.
+      You can now move on to the test trials.
+      You will do the same task as in the practice, responding to the direction of the central arrow.
+      You will complete 3 blocks of trials, each about 3-5 minutes long.
+      You will have  a short break in between these trials
+    "
+  },
+  "ui": {
+    "inputType": "markdown-message"
+  }
+}

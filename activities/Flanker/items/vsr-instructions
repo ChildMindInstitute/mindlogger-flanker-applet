@@ -11,6 +11,7 @@
   "schema:version": "0.0.1",
   "question": {
     "en": "
+      ## General Instructions
       In this task, you will see arrows presented at the center of the screen that point either to the left ![arrowleft.png](https://raw.githubusercontent.com/mtg137/Flanker_applet/master/images/arrow-left.png) or right ![arrowRight.png](https://raw.githubusercontent.com/mtg137/Flanker_applet/master/images/arrow-right.png).
       Your job is to respond by pressing the left button if the arrow is pointing to the left ![arrowleft.png](https://raw.githubusercontent.com/mtg137/Flanker_applet/master/images/arrow-left.png) or by pressing the right button if the arrow is pointing to the right ![arrowRight.png](https://raw.githubusercontent.com/mtg137/Flanker_applet/master/images/arrow-right.png).
       The arrows that you respond to will always be presented in the center of the screen.

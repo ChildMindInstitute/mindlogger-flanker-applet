@@ -6,6 +6,18 @@
       "@id": "Flanker:items/vsr-instructions",
       "@type": "@id"
     },
+    "practice-instructions": {
+      "@id": "Flanker:items/practice-instructions",
+      "@type": "@id"
+    },
+    "test-instructions": {
+      "@id": "Flanker:items/test-instructions",
+      "@type": "@id"
+    },
+    "next-instructions": {
+      "@id": "Flanker:items/next-instructions",
+      "@type": "@id"
+    },
     "visual-stimulus-response": {
       "@id": "Flanker:items/visual-stimulus-response",
       "@type": "@id"
