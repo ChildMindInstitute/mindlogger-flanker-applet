@@ -17,7 +17,123 @@
     {
       "@type": "schema:ItemList",
       "schema:name": "trials",
-      "schema:numberOfItems": 360
+      "schema:numberOfItems": 6,
+      "schema:itemListElement": [
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<<<<<",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<<><<",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": ">><>>",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": ">>>>>",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "--<--",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "-->--",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        }
+      ]
     },
     {
       "@type": "schema:Boolean",
@@ -42,12 +158,12 @@
     {
       "@type": "schema:Number",
       "schema:name": "sampleSize",
-      "schema:value": 3
+      "schema:value": 60
     },
     {
       "@type": "schema:Number",
       "schema:name": "trialDuration",
-      "schema:value": 10000
+      "schema:value": 2000
     }
   ]
 }
