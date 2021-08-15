@@ -33,6 +33,6 @@
     "test3": {
       "@id": "Flanker:items/test3",
       "@type": "@id"
-    },
+    }
   }
 }
