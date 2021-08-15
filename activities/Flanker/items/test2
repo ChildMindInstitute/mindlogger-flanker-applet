@@ -17,8 +17,122 @@
     {
       "@type": "schema:ItemList",
       "schema:name": "trials",
-      "schema:numberOfItems": 6,
+      "schema:numberOfItems": 12,
       "schema:itemListElement": [
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<<<<<",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "<<><<",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": ">><>>",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": ">>>>>",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "--<--",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 0
+        },
+        {
+          "@type": "schema:Property",
+          "schema:name": "q1",
+          "schema:image": "-->--",
+          "responseOptions": {
+            "@type": "xsd:anyURI",
+            "choices": [
+              {
+                "schema:name": "<",
+                "schema:value": 0
+              },
+              {
+                "schema:name": ">",
+                "schema:value": 1
+              }
+            ]
+          },
+          "schema:value": 1
+        },
         {
           "@type": "schema:Property",
           "schema:name": "q1",
@@ -158,7 +272,7 @@
     {
       "@type": "schema:Number",
       "schema:name": "sampleSize",
-      "schema:value": 60
+      "schema:value": 30
     },
     {
       "@type": "schema:Number",
