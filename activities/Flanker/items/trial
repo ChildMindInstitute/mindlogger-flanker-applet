@@ -164,6 +164,11 @@
       "@type": "schema:Number",
       "schema:name": "trialDuration",
       "schema:value": 2000
+    },
+    {
+      "@type": "schema:Boolean",
+      "schema:name": "trialPhase",
+      "schema:value": true
     }
   ]
 }
