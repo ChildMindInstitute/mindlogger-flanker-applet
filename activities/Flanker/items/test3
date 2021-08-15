@@ -1,0 +1,53 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "test3",
+  "skos:prefLabel": "Visual Stimulus Response",
+  "skos:altLabel": "Visual Stimulus Response",
+  "schema:description": "Flanker practice",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "ui": {
+    "inputType": "visual-stimulus-response",
+    "allow": ["autoAdvance"]
+  },
+  "inputOptions": [
+    {
+      "@type": "schema:ItemList",
+      "schema:name": "trials",
+      "schema:numberOfItems": 360
+    },
+    {
+      "@type": "schema:Boolean",
+      "schema:name": "showFixation",
+      "schema:value": true
+    },
+    {
+      "@type": "schema:Boolean",
+      "schema:name": "showFeedback",
+      "schema:value": false
+    },
+    {
+      "@type": "schema:Boolean",
+      "schema:name": "showResults",
+      "schema:value": true
+    },
+    {
+      "@type": "schema:Text",
+      "schema:name": "samplingMethod",
+      "schema:value": "randomize-order"
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "sampleSize",
+      "schema:value": 3
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "trialDuration",
+      "schema:value": 10000
+    }
+  ]
+}

@@ -18,9 +18,21 @@
       "@id": "Flanker:items/next-instructions",
       "@type": "@id"
     },
-    "visual-stimulus-response": {
-      "@id": "Flanker:items/visual-stimulus-response",
+    "trial": {
+      "@id": "Flanker:items/trial",
       "@type": "@id"
-    }
+    },
+    "test1": {
+      "@id": "Flanker:items/test1",
+      "@type": "@id"
+    },
+    "test2": {
+      "@id": "Flanker:items/test2",
+      "@type": "@id"
+    },
+    "test3": {
+      "@id": "Flanker:items/test3",
+      "@type": "@id"
+    },
   }
 }

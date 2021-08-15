@@ -23,13 +23,18 @@
         "isVis": true
       },
       {
+        "variableName": "trial",
+        "isAbout": "trial",
+        "isVis": true
+      },
+      {
         "variableName": "test-instructions",
         "isAbout": "test-instructions",
         "isVis": true
       },
       {
-        "variableName": "next-instructions",
-        "isAbout": "next-instructions",
+        "variableName": "test1",
+        "isAbout": "test1",
         "isVis": true
       },
       {
@@ -38,18 +43,31 @@
         "isVis": true
       },
       {
-        "variableName": "visual-stimulus-response",
-        "isAbout": "visual-stimulus-response",
+        "variableName": "test2",
+        "isAbout": "test2",
+        "isVis": true
+      },
+      {
+        "variableName": "next-instructions",
+        "isAbout": "next-instructions",
+        "isVis": true
+      },
+      {
+        "variableName": "test3",
+        "isAbout": "test3",
         "isVis": true
       }
     ],
     "order": [
       "vsr-instructions",
       "practice-instructions",
+      "trial",
       "test-instructions",
+      "test1",
       "next-instructions",
+      "test2",
       "next-instructions",
-      "visual-stimulus-response"
+      "test3"
     ],
     "allow": [
       "skipped",
