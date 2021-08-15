@@ -166,9 +166,14 @@
       "schema:value": 2000
     },
     {
-      "@type": "schema:Boolean",
-      "schema:name": "trialPhase",
-      "schema:value": true
+      "@type": "schema:Number",
+      "schema:name": "minimumAccuracy",
+      "schema:value": 75
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "maxRetryCount",
+      "schema:value": 3
     }
   ]
 }
