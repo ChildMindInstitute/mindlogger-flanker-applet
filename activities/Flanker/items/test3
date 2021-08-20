@@ -277,7 +277,7 @@
     {
       "@type": "schema:Number",
       "schema:name": "trialDuration",
-      "schema:value": 2000
+      "schema:value": 3000
     }
   ]
 }
