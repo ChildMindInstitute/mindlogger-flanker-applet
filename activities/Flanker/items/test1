@@ -272,7 +272,7 @@
     {
       "@type": "schema:Number",
       "schema:name": "sampleSize",
-      "schema:value": 30
+      "schema:value": 10
     },
     {
       "@type": "schema:Number",
