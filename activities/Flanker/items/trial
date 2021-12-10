@@ -156,6 +156,11 @@
       "schema:value": "randomize-order"
     },
     {
+      "@type": "schema:Text",
+      "schema:name": "nextButton",
+      "schema:value": "OK",
+    },
+    {
       "@type": "schema:Number",
       "schema:name": "sampleSize",
       "schema:value": 5
