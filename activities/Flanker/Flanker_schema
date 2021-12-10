@@ -70,8 +70,6 @@
       "test3"
     ],
     "allow": [
-      "skipped",
-      "dontKnow"
     ]
   }
 }
