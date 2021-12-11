@@ -10,7 +10,7 @@
   "schema:schemaVersion": "0.0.1",
   "schema:version": "0.0.1",
   "question": {
-    "en": "## Test Instructions\n\nGood job on the practice trials.\nYou can now move on to the test trials.\nYou will do the same task as in the practice, responding to the direction of the central arrow.\nYou will complete 3 blocks of trials, each about 3-5 minutes long.\nYou will have  a short break in between these trials\n"
+    "en": "## Test Instructions\n\nGood job on the practice blocks.\nYou can now move on to the test blocks.\nYou will do the same task as in the practice, responding to the direction of the central arrow.\nYou will complete 3 blocks, each about 3-5 minutes long.\nYou will have  a short break in between these blocks\n"
   },
   "ui": {
     "inputType": "markdown-message"
