@@ -277,7 +277,7 @@
     {
       "@type": "schema:Boolean",
       "schema:name": "lastScreen",
-      "schema:value": false
+      "schema:value": true
     },
     {
       "@type": "schema:Number",
