@@ -275,6 +275,11 @@
       "schema:value": "Finish",
     },
     {
+      "@type": "schema:Boolean",
+      "schema:name": "lastScreen",
+      "schema:value": false
+    },
+    {
       "@type": "schema:Number",
       "schema:name": "sampleSize",
       "schema:value": 10
