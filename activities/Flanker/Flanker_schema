@@ -18,6 +18,11 @@
         "isVis": true
       },
       {
+        "variableName": "practice-instructions",
+        "isAbout": "practice-instructions",
+        "isVis": true
+      },
+      {
         "variableName": "trial",
         "isAbout": "trial",
         "isVis": true
@@ -55,6 +60,7 @@
     ],
     "order": [
       "vsr-instructions",
+      "practice-instructions",
       "trial",
       "test-instructions",
       "test1",
