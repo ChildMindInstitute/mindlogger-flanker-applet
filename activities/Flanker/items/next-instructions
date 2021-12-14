@@ -13,6 +13,7 @@
     "en": "## Instructions\nPress the Next button to start next block."
   },
   "ui": {
-    "inputType": "markdown-message"
+    "inputType": "markdown-message",
+    "allow": ["disableBack"]
   }
 }

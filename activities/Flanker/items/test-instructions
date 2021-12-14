@@ -13,6 +13,7 @@
     "en": "## Test Instructions\n\nGood job on the practice blocks.\nYou can now move on to the test blocks.\nYou will do the same task as in the practice, responding to the direction of the central arrow.\nYou will complete 3 blocks, each about 3-5 minutes long.\nYou will have  a short break in between these blocks\n"
   },
   "ui": {
-    "inputType": "markdown-message"
+    "inputType": "markdown-message",
+    "allow": ["disableBack"]
   }
 }

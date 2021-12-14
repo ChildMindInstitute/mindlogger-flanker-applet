@@ -13,6 +13,7 @@
     "en": "## Instructions\n\nNow you will have a chance to practice the task before moving on to the test phase.\nRemember to respond only to the central arrow\n"
   },
   "ui": {
-    "inputType": "markdown-message"
+    "inputType": "markdown-message",
+    "allow": ["disableBack"]
   }
 }
