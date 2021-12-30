@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Protocol",
     "@id": "Flanker_schema",
-    "skos:prefLabel": "Flanker Applet",
+    "skos:prefLabel": "Flanker_iPad",
     "schema:description": "Participate in a selection of demo activities to showcase the features of MindLogger.",
     "landingPage": "",
     "schema:schemaVersion": "0.0.1",
