@@ -288,6 +288,11 @@
       "@type": "schema:Number",
       "schema:name": "trialDuration",
       "schema:value": 3000
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "blockIndex",
+      "schema:value": 3
     }
   ]
 }
