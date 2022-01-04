@@ -5,7 +5,7 @@
   ],
   "@type": "reproschema:Activity",
   "@id": "flanker_schema",
-  "skos:prefLabel": "Flanker",
+  "skos:prefLabel": "Flanker_360",
   "schema:description": "This activity contains Flanker item.",
   "schema:schemaVersion": "0.0.1",
   "schema:version": "0.0.1",
