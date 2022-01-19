@@ -8,6 +8,7 @@
     "skos:prefLabel": "Flanker_360",
     "schema:description": "Participate in a selection of demo activities to showcase the features of MindLogger.",
     "landingPage": "",
+    "streamEnabled": true,
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "schema:image": "https://raw.githubusercontent.com/mtg137/Flanker_applet/master/protocols/flanker/mindlogger-logo.png",
