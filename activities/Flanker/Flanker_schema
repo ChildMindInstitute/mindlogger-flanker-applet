@@ -3,7 +3,7 @@
     "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
     "https://raw.githubusercontent.com/mtg137/Flanker_applet/master/activities/Flanker/Flanker_context"
   ],
-  "@type": "reproschema:FLANKER",
+  "@type": "reproschema:Activity/FLANKER",
   "@id": "flanker_schema",
   "skos:prefLabel": "Flanker_360",
   "schema:description": "This activity contains Flanker item.",
