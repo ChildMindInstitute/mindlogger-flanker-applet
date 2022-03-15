@@ -39,8 +39,8 @@
         "isVis": true
       },
       {
-        "variableName": "next-instructions",
-        "isAbout": "next-instructions",
+        "variableName": "test2-instructions",
+        "isAbout": "test2-instructions",
         "isVis": true
       },
       {
@@ -49,8 +49,8 @@
         "isVis": true
       },
       {
-        "variableName": "next-instructions",
-        "isAbout": "next-instructions",
+        "variableName": "test3-instructions",
+        "isAbout": "test3-instructions",
         "isVis": true
       },
       {
@@ -65,9 +65,9 @@
       "trial",
       "test-instructions",
       "test1",
-      "next-instructions",
+      "test2-instructions",
       "test2",
-      "next-instructions",
+      "test3-instructions",
       "test3"
     ],
     "allow": [

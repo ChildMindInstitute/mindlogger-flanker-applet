@@ -3,8 +3,8 @@
     "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
   ],
   "@type": "reproschema:Field",
-  "@id": "next-instructions",
-  "skos:altLabel": "next-instructions",
+  "@id": "test3-instructions",
+  "skos:altLabel": "test3-instructions",
   "skos:prefLabel": "Visual Stimulus Response instructions",
   "schema:description": "Instructions for the Practice Phase",
   "schema:schemaVersion": "0.0.1",

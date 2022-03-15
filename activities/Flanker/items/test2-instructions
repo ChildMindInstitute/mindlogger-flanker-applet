@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+  ],
+  "@type": "reproschema:Field",
+  "@id": "test2-instructions",
+  "skos:altLabel": "test2-instructions",
+  "skos:prefLabel": "Visual Stimulus Response instructions",
+  "schema:description": "Instructions for the Practice Phase",
+  "schema:schemaVersion": "0.0.1",
+  "schema:version": "0.0.1",
+  "question": {
+    "en": "## Instructions\nPress the Next button to start next block."
+  },
+  "ui": {
+    "inputType": "markdown-message",
+    "allow": ["disableBack"]
+  }
+}
