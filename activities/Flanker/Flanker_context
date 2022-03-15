@@ -14,8 +14,12 @@
       "@id": "Flanker:items/test-instructions",
       "@type": "@id"
     },
-    "next-instructions": {
-      "@id": "Flanker:items/next-instructions",
+    "test2-instructions": {
+      "@id": "Flanker:items/test2-instructions",
+      "@type": "@id"
+    },
+    "test3-instructions": {
+      "@id": "Flanker:items/test3-instructions",
       "@type": "@id"
     },
     "trial": {
