@@ -1,7 +1,7 @@
 {
   "@context": [
     "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
-    "https://raw.githubusercontent.com/mtg137/Flanker_applet/master/activities/Flanker/Flanker_context"
+    "https://raw.githubusercontent.com/mtg137/Flanker_applet/staging/activities/Flanker/Flanker_context"
   ],
   "@type": "reproschema:Activity",
   "activityType": "FLANKER",
