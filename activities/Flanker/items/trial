@@ -20,118 +20,128 @@
       "schema:numberOfItems": 6,
       "schema:itemListElement": [
         {
+          "@id": "left-con",
           "@type": "schema:Property",
-          "schema:name": "q1",
-          "schema:image": "<<<<<",
-          "responseOptions": {
-            "@type": "xsd:anyURI",
-            "choices": [
-              {
-                "schema:name": "<",
-                "schema:value": 0
-              },
-              {
-                "schema:name": ">",
-                "schema:value": 1
-              }
-            ]
-          },
+          "schema:name": "<<<<<",
+          "schema:image": "",
           "schema:value": 0
         },
         {
+          "@id": "right-inc",
           "@type": "schema:Property",
-          "schema:name": "q1",
-          "schema:image": "<<><<",
-          "responseOptions": {
-            "@type": "xsd:anyURI",
-            "choices": [
-              {
-                "schema:name": "<",
-                "schema:value": 0
-              },
-              {
-                "schema:name": ">",
-                "schema:value": 1
-              }
-            ]
-          },
+          "schema:name": "<<><<",
+          "schema:image": "",
           "schema:value": 1
         },
         {
+          "@id": "left-inc",
           "@type": "schema:Property",
-          "schema:name": "q1",
-          "schema:image": ">><>>",
-          "responseOptions": {
-            "@type": "xsd:anyURI",
-            "choices": [
-              {
-                "schema:name": "<",
-                "schema:value": 0
-              },
-              {
-                "schema:name": ">",
-                "schema:value": 1
-              }
-            ]
-          },
+          "schema:name": ">><>>",
+          "schema:image": "",
           "schema:value": 0
         },
         {
+          "@id": "right-con",
           "@type": "schema:Property",
-          "schema:name": "q1",
-          "schema:image": ">>>>>",
-          "responseOptions": {
-            "@type": "xsd:anyURI",
-            "choices": [
-              {
-                "schema:name": "<",
-                "schema:value": 0
-              },
-              {
-                "schema:name": ">",
-                "schema:value": 1
-              }
-            ]
-          },
+          "schema:name": ">>>>>",
+          "schema:image": "",
           "schema:value": 1
         },
         {
+          "@id": "left-neut",
           "@type": "schema:Property",
-          "schema:name": "q1",
-          "schema:image": "--<--",
-          "responseOptions": {
-            "@type": "xsd:anyURI",
-            "choices": [
-              {
-                "schema:name": "<",
-                "schema:value": 0
-              },
-              {
-                "schema:name": ">",
-                "schema:value": 1
-              }
-            ]
-          },
+          "schema:name": "--<--",
+          "schema:image": "",
           "schema:value": 0
         },
         {
+          "@id": "right-neut",
           "@type": "schema:Property",
-          "schema:name": "q1",
-          "schema:image": "-->--",
-          "responseOptions": {
-            "@type": "xsd:anyURI",
-            "choices": [
-              {
-                "schema:name": "<",
-                "schema:value": 0
-              },
-              {
-                "schema:name": ">",
-                "schema:value": 1
-              }
-            ]
-          },
+          "schema:name": "-->--",
+          "schema:image": "",
           "schema:value": 1
+        }
+      ]
+    },
+    {
+      "@type": "schema:ItemList",
+      "schema:name": "blocks",
+      "schema:numberOfItems": 5,
+      "schema:itemListElement": [
+        {
+          "schema:name": "Block 1",
+          "schema:value": 0,
+          "order": [
+            "left-con",
+            "right-con",
+            "left-inc",
+            "right-inc",
+            "left-neut",
+            "right-neut"
+          ]
+        },
+        {
+          "schema:name": "Block 2",
+          "schema:value": 1,
+          "order": [
+            "left-con",
+            "right-con",
+            "left-inc",
+            "right-inc",
+            "left-neut",
+            "right-neut"
+          ]
+        },
+        {
+          "schema:name": "Block 3",
+          "schema:value": 1,
+          "order": [
+            "left-con",
+            "right-con",
+            "left-inc",
+            "right-inc",
+            "left-neut",
+            "right-neut"
+          ]
+        },
+        {
+          "schema:name": "Block 4",
+          "schema:value": 1,
+          "order": [
+            "left-con",
+            "right-con",
+            "left-inc",
+            "right-inc",
+            "left-neut",
+            "right-neut"
+          ]
+        },
+        {
+          "schema:name": "Block 5",
+          "schema:value": 1,
+          "order": [
+            "left-con",
+            "right-con",
+            "left-inc",
+            "right-inc",
+            "left-neut",
+            "right-neut"
+          ]
+        }
+      ]
+    },
+    {
+      "schema:name": "buttons",
+      "schema:itemListElement": [
+        {
+          "schema:name": "<",
+          "schema:value": 0,
+          "schema:image": ""
+        },
+        {
+          "schema:name": ">",
+          "schema:value": 1,
+          "schema:image": ""
         }
       ]
     },
@@ -163,7 +173,7 @@
     {
       "@type": "schema:Number",
       "schema:name": "sampleSize",
-      "schema:value": 5
+      "schema:value": 1
     },
     {
       "@type": "schema:Number",
@@ -172,8 +182,19 @@
     },
     {
       "@type": "schema:Number",
+      "schema:name": "fixationDuration",
+      "schema:value": 500,
+    },
+    {
+      "@type": "schema:Text",
+      "schema:name": "fixationScreen",
+      "schema:value": "-----",
+      "schema:image": ""
+    },
+    {
+      "@type": "schema:Number",
       "schema:name": "minimumAccuracy",
-      "schema:value": 75
+      "schema:value": 80
     },
     {
       "@type": "schema:Number",
