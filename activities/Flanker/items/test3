@@ -372,9 +372,14 @@
       "schema:image": ""
     },
     {
-      "@type": "schema:Number",
-      "schema:name": "blockIndex",
-      "schema:value": 3
+      "@type": "schema:Text",
+      "schema:name": "blockType",
+      "schema:value": "test"
+    },
+    {
+      "@type": "schema:Boolean",
+      "schema:name": "lastScreen",
+      "schema:value": true
     }
   ]
 }

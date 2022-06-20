@@ -372,9 +372,9 @@
       "schema:image": ""
     },
     {
-      "@type": "schema:Number",
-      "schema:name": "blockIndex",
-      "schema:value": 1
+      "@type": "schema:Text",
+      "schema:name": "blockType",
+      "schema:value": "test"
     }
   ]
 }

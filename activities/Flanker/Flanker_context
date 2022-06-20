@@ -26,6 +26,22 @@
       "@id": "Flanker:items/trial",
       "@type": "@id"
     },
+    "trial2-instructions": {
+      "@id": "Flanker:items/trial2-instructions",
+      "@type": "@id"
+    },
+    "trial2": {
+      "@id": "Flanker:items/trial2",
+      "@type": "@id"
+    },
+    "trial3-instructions": {
+      "@id": "Flanker:items/trial3-instructions",
+      "@type": "@id"
+    },
+    "trial3": {
+      "@id": "Flanker:items/trial3",
+      "@type": "@id"
+    },
     "test1": {
       "@id": "Flanker:items/test1",
       "@type": "@id"

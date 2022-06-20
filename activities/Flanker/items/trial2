@@ -3,7 +3,7 @@
     "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
   ],
   "@type": "reproschema:Field",
-  "@id": "test2",
+  "@id": "trial2",
   "skos:prefLabel": "Visual Stimulus Response",
   "skos:altLabel": "Visual Stimulus Response",
   "schema:description": "Flanker practice",
@@ -66,7 +66,7 @@
     {
       "@type": "schema:ItemList",
       "schema:name": "blocks",
-      "schema:numberOfItems": 20,
+      "schema:numberOfItems": 5,
       "schema:itemListElement": [
         {
           "schema:name": "Block 1",
@@ -94,7 +94,7 @@
         },
         {
           "schema:name": "Block 3",
-          "schema:value": 2,
+          "schema:value": 1,
           "order": [
             "left-con",
             "right-con",
@@ -106,7 +106,7 @@
         },
         {
           "schema:name": "Block 4",
-          "schema:value": 3,
+          "schema:value": 1,
           "order": [
             "left-con",
             "right-con",
@@ -118,187 +118,7 @@
         },
         {
           "schema:name": "Block 5",
-          "schema:value": 4,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 6",
-          "schema:value": 5,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 7",
-          "schema:value": 6,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 8",
-          "schema:value": 7,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 9",
-          "schema:value": 8,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 10",
-          "schema:value": 9,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 11",
-          "schema:value": 10,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 12",
-          "schema:value": 11,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 13",
-          "schema:value": 12,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 14",
-          "schema:value": 13,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 15",
-          "schema:value": 14,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 16",
-          "schema:value": 15,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 17",
-          "schema:value": 16,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 18",
-          "schema:value": 17,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 19",
-          "schema:value": 18,
-          "order": [
-            "left-con",
-            "right-con",
-            "left-inc",
-            "right-inc",
-            "left-neut",
-            "right-neut"
-          ]
-        },
-        {
-          "schema:name": "Block 20",
-          "schema:value": 19,
+          "schema:value": 1,
           "order": [
             "left-con",
             "right-con",
@@ -333,7 +153,7 @@
     {
       "@type": "schema:Boolean",
       "schema:name": "showFeedback",
-      "schema:value": false
+      "schema:value": true
     },
     {
       "@type": "schema:Boolean",
@@ -348,7 +168,7 @@
     {
       "@type": "schema:Text",
       "schema:name": "nextButton",
-      "schema:value": "Continue",
+      "schema:value": "OK",
     },
     {
       "@type": "schema:Number",
@@ -372,9 +192,19 @@
       "schema:image": ""
     },
     {
+      "@type": "schema:Number",
+      "schema:name": "minimumAccuracy",
+      "schema:value": 80
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "maxRetryCount",
+      "schema:value": 3
+    },
+    {
       "@type": "schema:Text",
       "schema:name": "blockType",
-      "schema:value": "test"
+      "schema:value": "practice"
     }
   ]
 }

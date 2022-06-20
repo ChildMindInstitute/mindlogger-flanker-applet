@@ -29,6 +29,26 @@
         "isVis": true
       },
       {
+        "variableName": "trial2-instructions",
+        "isAbout": "trial",
+        "isVis": true
+      },
+      {
+        "variableName": "trial2",
+        "isAbout": "trial2",
+        "isVis": true
+      },
+      {
+        "variableName": "trial3-instructions",
+        "isAbout": "trial",
+        "isVis": true
+      },
+      {
+        "variableName": "trial3",
+        "isAbout": "trial3",
+        "isVis": true
+      },
+      {
         "variableName": "test-instructions",
         "isAbout": "test-instructions",
         "isVis": true
@@ -63,6 +83,10 @@
       "vsr-instructions",
       "practice-instructions",
       "trial",
+      "trial2-instructions",
+      "trial2",
+      "trial3-instructions",
+      "trial3",
       "test-instructions",
       "test1",
       "test2-instructions",

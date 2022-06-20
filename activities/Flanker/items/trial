@@ -202,9 +202,9 @@
       "schema:value": 3
     },
     {
-      "@type": "schema:Number",
-      "schema:name": "blockIndex",
-      "schema:value": 0
+      "@type": "schema:Text",
+      "schema:name": "blockType",
+      "schema:value": "practice"
     }
   ]
 }
