@@ -205,6 +205,11 @@
       "@type": "schema:Text",
       "schema:name": "blockType",
       "schema:value": "practice"
+    },
+    {
+      "@type": "schema:Boolean",
+      "schema:name": "lastPractice",
+      "schema:value": true
     }
   ]
 }

@@ -378,7 +378,7 @@
     },
     {
       "@type": "schema:Boolean",
-      "schema:name": "lastScreen",
+      "schema:name": "lastTest",
       "schema:value": true
     }
   ]
