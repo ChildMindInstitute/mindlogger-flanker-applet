@@ -194,7 +194,7 @@
     {
       "@type": "schema:Number",
       "schema:name": "minimumAccuracy",
-      "schema:value": 80
+      "schema:value": 75
     },
     {
       "@type": "schema:Number",
