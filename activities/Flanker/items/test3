@@ -380,6 +380,11 @@
       "@type": "schema:Boolean",
       "schema:name": "lastTest",
       "schema:value": true
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "blockIndex",
+      "schema:value": 3
     }
   ]
 }

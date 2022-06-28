@@ -375,6 +375,11 @@
       "@type": "schema:Text",
       "schema:name": "blockType",
       "schema:value": "test"
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "blockIndex",
+      "schema:value": 1
     }
   ]
 }

@@ -210,6 +210,11 @@
       "@type": "schema:Boolean",
       "schema:name": "lastPractice",
       "schema:value": true
+    },
+    {
+      "@type": "schema:Number",
+      "schema:name": "blockIndex",
+      "schema:value": 0
     }
   ]
 }
