@@ -348,7 +348,7 @@
     {
       "@type": "schema:Text",
       "schema:name": "nextButton",
-      "schema:value": "Continue",
+      "schema:value": "Finish",
     },
     {
       "@type": "schema:Number",
