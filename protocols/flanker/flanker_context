@@ -1,6 +1,6 @@
 {
     "@context": {
-        "activity_path": "https://raw.githubusercontent.com/mtg137/Flanker_applet/staging/activities/",
+        "activity_path": "https://raw.githubusercontent.com/ChildMindInstitute/mindlogger-flanker-applet/staging-fix/activities/",
 
         "Flanker_schema": {
             "@id": "activity_path:Flanker/Flanker_schema",
